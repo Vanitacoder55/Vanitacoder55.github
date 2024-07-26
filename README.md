@@ -9,4 +9,4 @@ I have successfully completed the "Excel for Beginners" course offered by Great 
  #greatlearning 
  #glacertificate
 Here,I am also my sharing certificate
-![Excel Certificate].[IMG_20240726_185647](https://github.com/user-attachments/assets/ea922c31-e9f6-4791-956d-c12a7fa7b475)
+![Excel Certificate].(https://github.com/user-attachments/assets/ea922c31-e9f6-4791-956d-c12a7fa7b475)
